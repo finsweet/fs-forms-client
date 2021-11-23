@@ -1,21 +1,7 @@
-# Finsweet Developer Starter
+# Form Attributes
 
-A starter template for both Client & Power projects. This project contains:
+This project contains script for form attribute handling :
 
-- Preconfigured development tools:
-
-  - [Typescript](https://www.typescriptlang.org/): A superset of Javascript that adds an additional layer of Typings, bringing more security and efficiency to the written code.
-  - [Prettier](https://prettier.io/): Code formating that assures consistency across all Finsweet's projects.
-  - [ESLint](https://eslint.org/): Code linting that enforces industries' best practises. It uses [our own custom configuration](https://github.com/finsweet/eslint-config) to maintain consistency across all Finsweet's projects.
-  - [ESBuild](https://esbuild.github.io/): Javascript bundler that compiles, bundles and minifies the original Typescript files.
-
-- Learning resources for new team members:
-
-  - [Learning Typescript](#typescript): Everything you need to start confidently coding with Typescript.
-  - [Coding best practises](#best-practises): Learn how to write clean and semantic code that is easily understandable by your teammates.
-  - [Setting up your development environment](#dev-environment): Learn how to set up VSCode and to use the development tools included in this repository
-  - [Development workflows](#dev-workflows): See examples of workflows from your local environment to Webflow.
-  - [Git](#git): Learn how to collaborate with your teammates' code!
 
 ## How to start
 
